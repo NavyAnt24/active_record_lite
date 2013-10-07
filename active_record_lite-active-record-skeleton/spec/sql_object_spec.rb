@@ -19,7 +19,7 @@ describe SQLObject do
     end
 
     # p Human.find(1)
-    # p Cat.find(1)
+    # p Cat.find(1)()
     # p Cat.find(2)
 
     # p Human.all
